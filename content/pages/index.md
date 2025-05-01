@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Video Games
-        subtitle: Numbers Done
+        subtitle: Development
         text: >+
           With over 4 years experience with Unreal Engine/Unity combined with
           C++/C#. I am proud to deliver quality projects
