@@ -8,7 +8,7 @@ topSections:
       text: About me
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Patricio garzon
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
