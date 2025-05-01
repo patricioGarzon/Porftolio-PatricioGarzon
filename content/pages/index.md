@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Most Familiar Development
+    subtitle: Expertise Development
     items:
       - type: FeaturedItem
         title: 500k
