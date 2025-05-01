@@ -179,8 +179,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/Unreal.png
-        altText: 'Unreal Engine :pcp'
+      - altText: 'Unreal Engine :pcp'
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
