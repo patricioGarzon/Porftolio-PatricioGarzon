@@ -112,11 +112,10 @@ sections:
         type: FeaturedItem
       - title: Software
         subtitle: Development
-        text: >+
-          I am a software developer with 4 years of experience in building
-          scalable applications. I excel at solving complex problems, optimizing
-          performance, and delivering impactful user-focused software.
-
+        text: >
+          With 4 years of experience in building scalable applications. I excel
+          at solving complex problems, optimizing performance, and delivering
+          impactful user-focused software.
         image:
           altText: Featured icon three
           elementId: ''
