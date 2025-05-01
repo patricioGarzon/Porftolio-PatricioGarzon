@@ -45,7 +45,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:nicox_g@hotmail.es",
             "icon": "mail",
             "type": "Social"
         },
