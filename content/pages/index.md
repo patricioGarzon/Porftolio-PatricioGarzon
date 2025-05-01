@@ -177,7 +177,7 @@ sections:
         altText: Telus logo
         type: ImageBlock
       - url: /images/VisualStudio-Logo.png
-        altText: Contentful logo
+        altText: Visual Studio Loco
         type: ImageBlock
       - altText: 'Unreal Engine '
         type: ImageBlock
