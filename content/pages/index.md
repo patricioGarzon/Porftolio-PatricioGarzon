@@ -170,8 +170,7 @@ sections:
       - url: /images/Python-Logo.png
         altText: PythonLogo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/Xcode-Logo.png
         altText: XCode Logo
