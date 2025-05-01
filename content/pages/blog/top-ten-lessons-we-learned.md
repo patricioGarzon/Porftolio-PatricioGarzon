@@ -2,10 +2,7 @@
 title: nnovative and results-driven software engineer
 slug: top-ten-lessons-we-learned
 date: '2025-05-01'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: "with over 4 years of experience delivering high-quality, scalable software solutions. Proficient in modern programming languages including C++ and C#, with deep expertise in industry-standard tools such as Unity and Unreal Engine.\_."
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
