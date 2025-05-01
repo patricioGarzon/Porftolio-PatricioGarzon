@@ -164,11 +164,11 @@ sections:
         textAlign: center
   - subtitle: Software & Languages
     images:
-      - url: /images/UnityLogo.png
-        altText: Unity Logo
-        type: ImageBlock
       - url: /images/Python-Logo.png
         altText: PythonLogo
+        type: ImageBlock
+      - url: /images/UnityLogo.png
+        altText: Unity Logo
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
