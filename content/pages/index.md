@@ -181,7 +181,7 @@ sections:
         type: ImageBlock
       - altText: 'Unreal Engine :pcp'
         type: ImageBlock
-        url: /images/Unreal-removebg-preview.png
+        url: /images/VisualStudioLogo.png
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
