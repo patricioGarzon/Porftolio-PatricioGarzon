@@ -22,7 +22,7 @@
         },
         {
             "label": "Home",
-            "altText": "Blog",
+            "altText": "Homae",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
