@@ -182,7 +182,7 @@ sections:
       - altText: 'Unreal Engine '
         type: ImageBlock
         url: /images/Unreal-removebg-preview_resized.png
-      - url: /images/rangle-logo.svg
+      - url: /images/Javascript-Logo.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
