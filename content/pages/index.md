@@ -183,7 +183,7 @@ sections:
         type: ImageBlock
         url: /images/Unreal-removebg-preview_resized.png
       - url: /images/Javascript-Logo.png
-        altText: Rangle logo
+        altText: 'Javascript '
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
