@@ -91,10 +91,7 @@ sections:
               borderRadius: x-large
       - title: Mobile & App
         subtitle: Development
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Working with Android and IOS has been one of my top experiences in my software Engineer Career.\_\n\n"
         image:
           altText: Featured icon two
           elementId: ''
