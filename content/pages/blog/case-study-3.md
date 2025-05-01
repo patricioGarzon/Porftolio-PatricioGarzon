@@ -77,7 +77,7 @@ styles:
     padding:
       - pt-9
       - pl-5
-      - pb-5
+      - pb-10
       - pr-5
     textAlign: center
     borderColor: border-light
