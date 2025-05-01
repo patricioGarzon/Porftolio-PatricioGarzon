@@ -164,7 +164,7 @@ sections:
         textAlign: center
   - subtitle: Software & Languages
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/UnityLogo.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
