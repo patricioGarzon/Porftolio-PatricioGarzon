@@ -168,7 +168,7 @@ sections:
         altText: Unity Logo
         type: ImageBlock
       - url: /images/Python-Logo.png
-        altText: Wellster logo
+        altText: PythonLogo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
