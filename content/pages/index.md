@@ -62,7 +62,7 @@ sections:
     subtitle: 'Expertise Development in:'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Video Games
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
