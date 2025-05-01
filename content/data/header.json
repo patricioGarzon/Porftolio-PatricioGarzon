@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Home4",
+            "label": "Home",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
