@@ -64,10 +64,10 @@ sections:
       - type: FeaturedItem
         title: Video Games
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          With over 4 years experience with Unreal Engine/Unity combined with
+          C++/C#. I am proud to deliver quality projects
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
