@@ -176,7 +176,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/VisualStudio-Logo.png
         altText: Contentful logo
         type: ImageBlock
       - altText: 'Unreal Engine '
