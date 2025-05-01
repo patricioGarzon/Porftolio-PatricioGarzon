@@ -182,7 +182,7 @@ sections:
       - altText: 'Unreal Engine '
         type: ImageBlock
         url: /images/Unreal-removebg-preview_resized.png
-      - url: /images/Javascript-Logo.png
+      - url: /images/Javascript-Logo_resized.png
         altText: 'Javascript '
         type: ImageBlock
     motion: move-to-left
