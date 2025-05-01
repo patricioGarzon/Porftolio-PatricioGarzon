@@ -13,7 +13,7 @@ sections:
       Development.
 
     actions:
-      - label: Get started
+      - label: More About me
         altText: ''
         url: /
         showIcon: false
