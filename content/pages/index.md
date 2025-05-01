@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Expertise
+      text: Designing code with purpose.
       color: text-dark
       styles:
         self:
