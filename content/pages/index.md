@@ -167,10 +167,10 @@ sections:
       - url: /images/Python-Logo.png
         altText: PythonLogo
         type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
       - url: /images/UnityLogo.png
         altText: Unity Logo
-        type: ImageBlock
-      - altText: Vise logo
         type: ImageBlock
       - url: /images/Xcode-Logo.png
         altText: XCode Logo
