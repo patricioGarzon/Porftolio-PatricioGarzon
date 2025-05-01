@@ -180,7 +180,7 @@ sections:
         altText: Contentful logo
         type: ImageBlock
       - url: /images/Unreal.png
-        altText: Sanity logo
+        altText: 'Unreal Engine :pcp'
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
