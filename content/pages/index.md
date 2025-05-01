@@ -8,10 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Software Engineer
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **Hi, I'm a Software Engineer specializing in C++ and High-Performance
+      UI/UX Development.**
+
+
+      With a strong focus on building fast, responsive, and intuitive user
+      interfaces, I bring together deep expertise in C++ programming and
+      performance optimization
+
     actions:
       - label: Get started
         altText: ''
