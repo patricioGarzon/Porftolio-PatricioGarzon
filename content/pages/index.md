@@ -169,11 +169,11 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/UnityLogo.png
-        altText: Unity Logo
-        type: ImageBlock
       - url: /images/Xcode-Logo.png
         altText: XCode Logo
+        type: ImageBlock
+      - url: /images/UnityLogo.png
+        altText: Unity Logo
         type: ImageBlock
       - url: /images/VisualStudio-Logo.png
         altText: Visual Studio Logo
