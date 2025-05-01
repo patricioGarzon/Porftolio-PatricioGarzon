@@ -9,13 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Software Engineer
     text: >+
-      **Hi, I'm a Software Engineer specializing in C++ and High-Performance
-      UI/UX Development.**
-
-
-      With a strong focus on building fast, responsive, and intuitive user
-      interfaces, I bring together deep expertise in C++ programming and
-      performance optimization
+      Hi, I'm a Software Engineer specializing in C++ and High-Performance UI/UX
+      Development.
 
     actions:
       - label: Get started
