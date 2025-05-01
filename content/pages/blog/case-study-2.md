@@ -75,7 +75,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     padding:
-      - pt-52
+      - pt-16
       - pl-5
       - pb-5
       - pr-5
