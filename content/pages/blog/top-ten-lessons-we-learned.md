@@ -1,5 +1,9 @@
 ---
-title: Innovative and results-driven software engineer
+title: >-
+  with over 4 years of experience delivering high-quality, scalable software
+  solutions. Proficient in modern programming languages including C++ and C#,
+  with deep expertise in industry-standard tools such as Unity and Unreal
+  Engine. 
 slug: top-ten-lessons-we-learned
 date: '2025-05-01'
 excerpt: "with over 4 years of experience delivering high-quality, scalable software solutions. Proficient in modern programming languages including C++ and C#, with deep expertise in industry-standard tools such as Unity and Unreal Engine.\_."
