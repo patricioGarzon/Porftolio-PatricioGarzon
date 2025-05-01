@@ -165,7 +165,7 @@ sections:
   - subtitle: Software & Languages
     images:
       - url: /images/UnityLogo.png
-        altText: Empathy logo
+        altText: Unity Logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
