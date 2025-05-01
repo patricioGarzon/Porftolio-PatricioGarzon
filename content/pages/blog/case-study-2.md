@@ -86,7 +86,7 @@ styles:
     borderRadius: none
     flexDirection: col
     margin:
-      - mb-11
+      - mb-0
 type: PostLayout
 ---
 
