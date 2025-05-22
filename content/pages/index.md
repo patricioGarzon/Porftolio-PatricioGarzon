@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: Projects
         altText: ''
-        url: /
+        url: /About Me
         showIcon: true
         icon: arrowRight
         iconPosition: right
