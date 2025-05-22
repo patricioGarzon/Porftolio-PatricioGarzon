@@ -1,6 +1,6 @@
 ---
 title: About Me
-slug: /blog
+slug: /AboutMe
 numOfPostsPerPage: 1
 enableSearch: false
 topSections:
