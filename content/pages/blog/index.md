@@ -2,7 +2,7 @@
 title: Blog
 slug: /blog
 numOfPostsPerPage: 0
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: About me
