@@ -1,15 +1,14 @@
 ---
-title: Case study 3
+title: Unipol
 slug: case-study-3
-date: '2021-11-18'
+date: '2022-01-18'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/UnipolCharacter.JPG
   altText: Case study 3
   styles:
     self:
@@ -76,9 +75,9 @@ colors: bg-light-fg-dark
 styles:
   self:
     padding:
-      - pt-5
+      - pt-0
       - pl-5
-      - pb-5
+      - pb-10
       - pr-5
     textAlign: center
     borderColor: border-light

@@ -1,14 +1,14 @@
 ---
-title: Blog
-slug: /blog
-numOfPostsPerPage: 8
-enableSearch: true
+title: About Me
+slug: /About
+numOfPostsPerPage: 1
+enableSearch: false
 topSections:
   - title:
-      text: Featured Post
+      text: About me
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Patricio garzon
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
@@ -39,17 +39,4 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: move-up
 ---

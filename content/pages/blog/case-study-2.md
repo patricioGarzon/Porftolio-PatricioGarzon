@@ -1,15 +1,15 @@
 ---
-title: Case study 2
+title: Thunder
 slug: case-study-2
-date: '2022-02-16'
+date: '2024-01-16'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 2
+  url: /images/Thunder_menu.png
+  altText: Unipol
   styles:
     self:
       borderRadius: x-large
@@ -75,7 +75,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     padding:
-      - pt-5
+      - pt-24
       - pl-5
       - pb-5
       - pr-5
@@ -85,6 +85,8 @@ styles:
     borderWidth: 0
     borderRadius: none
     flexDirection: col
+    margin:
+      - mb-0
 type: PostLayout
 ---
 

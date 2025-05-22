@@ -4,23 +4,26 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Home",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Home"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
+            "label": "Work Samples",
+            "altText": "Work Samples",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -28,8 +31,8 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
+            "label": "About",
+            "altText": "About",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
