@@ -15,7 +15,7 @@ sections:
     actions:
       - label: More About me
         altText: ''
-        url: /
+        url: /About
         showIcon: false
         icon: arrowRight
         iconPosition: right
